@@ -13,7 +13,7 @@ body {
     background-color: #fffaf0
 }
 
-h2 {
+.headers {
     background-color: #061b47;
     color: white;
     text-align: center;
@@ -56,13 +56,13 @@ figure.picturerow {
     width: 100;
 }
 
-
+/* 
 #morezviaduct {
     height: 500px;
     width:600px;
     text-align: center;
 }
-
+ */
 
 
 /* 
@@ -92,3 +92,32 @@ figcaption.centercaption {
 }
 
 /*border-radius*/
+/* 
+#secondrowofimages {
+    display: inline-block;
+    text-align: center;
+    width: 50%
+
+} */
+
+#list {
+    font-size:25px;
+}
+
+.secondlist {
+    font-size:25px
+}
+
+.funkybackground {
+    width: auto;
+    length: auto;
+    background-color:skyblue;
+    border-radius:50%;
+    box-shadow: 12px 12px 2px 1px blue; 
+}
+
+#takeaways {
+    color:red;
+    background-color:#061b47;
+    text-align: center;
+}
