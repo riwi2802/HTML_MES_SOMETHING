@@ -1,0 +1,123 @@
+p {
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-left: 8px;
+    margin-right: 8px;
+    font-size: 25px;
+    padding: 10px;
+}
+
+
+
+body {
+    background-color: #fffaf0
+}
+
+.headers {
+    background-color: #061b47;
+    color: white;
+    text-align: center;
+}
+
+
+
+p.funParagraph {
+   color: green
+}
+
+
+div {
+    text-align: center;
+}
+
+
+
+#mainheader {
+    font-size:45px;
+    text-align: center;
+}
+
+/* img.pic {
+    width:450px;
+    height:450px;
+    margin: auto;
+    display: block;
+    text-align: center;
+
+} */
+#francemap {
+    height: 50px;
+}
+
+
+figure.picturerow {
+    float:left;
+    margin: 0px 15px 15px 15px;
+    width: 100;
+}
+
+/* 
+#morezviaduct {
+    height: 500px;
+    width:600px;
+    text-align: center;
+}
+ */
+
+
+/* 
+figure.picturerow {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    display: inline-table;
+    justify-content: center;
+    margin-left: 200px;
+    margin-right: 200px;
+} */
+
+figcaption.captionrow {
+    object-fit: cover;
+    display: inline-table;
+    justify-content:flex-end
+}
+
+figcaption.centercaption {
+    text-align: center;
+}
+
+
+.picture {
+    text-align: center
+}
+
+/*border-radius*/
+/* 
+#secondrowofimages {
+    display: inline-block;
+    text-align: center;
+    width: 50%
+
+} */
+
+#list {
+    font-size:25px;
+}
+
+.secondlist {
+    font-size:25px
+}
+
+.funkybackground {
+    width: auto;
+    length: auto;
+    background-color:skyblue;
+    border-radius:50%;
+    box-shadow: 12px 12px 2px 1px blue; 
+}
+
+#takeaways {
+    color:red;
+    background-color:#061b47;
+    text-align: center;
+}
